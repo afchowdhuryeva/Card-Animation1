@@ -46,6 +46,7 @@
  .imgbox img{
      background-size: cover;
      background-position:center;
+     margin-left: -120px;
  }
  .imgbox , .content{
      position: absolute;
